@@ -2,8 +2,7 @@
 
 The starting point for a booking and practice system for a wellness studio with several practitioners.
 
-<!-- Screenshot: add an image here when the first screens exist -->
-<!-- ![Roots & Restore](docs/screenshot.png) -->
+![Roots & Restore starter page](docs/screenshot.png)
 
 ## The problem
 
