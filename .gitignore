@@ -34,3 +34,20 @@ pnpm-debug.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.playbook/
+.claude/commands/
+.cursor/commands/
+.cursor/rules/playbook.mdc
+HANDOFF.md
+.claude/skills/break-ui/
+.claude/skills/careful-build/
+.claude/skills/emil-design-eng/
+.claude/skills/mobile-native/
+.claude/skills/neon-postgres-branches/
+.claude/skills/review-animations/
+.claude/skills/sentry-debug-issue/
+.claude/skills/stripe-best-practices/
+.claude/skills/ultrathink/
+.claude/skills/upgrade-stripe/
+.claude/skills/workers-best-practices/
+.claude/skills/.playbook-skills
